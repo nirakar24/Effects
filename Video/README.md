@@ -15,14 +15,14 @@ To see the effect in action, you can check out this [demo](#). In this demo, we 
 
 ### 1. HTML Structure
 
-Your HTML structure should include a container (e.g., `video_container`) with two child divs (e.g., `text_div` and `video_div`). Here's an example:
+Your HTML structure should include a container (e.g., `video_container`) with two child divs (e.g., `text` and `video`). Here's an example:
 
 ```html
 <div class="video_container">
-    <div class="text_div">
+    <div class="text">
         <!-- Your text content goes here -->
     </div>
-    <div class="video_div">
+    <div class="video">
         <!-- Your video content goes here -->
     </div>
 </div>
